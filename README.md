@@ -2,7 +2,7 @@
 
 Memulai perjalanan belajar Flutter dengan membuat aplikasi Roll Dice adalah sebuah pengalaman yang menarik dan penuh tantangan. Sebagai framework yang memungkinkan pengembangan aplikasi mobile dari single codebase, Flutter menawarkan kemudahan untuk menghasilkan aplikasi yang berjalan di iOS dan Android. Menggunakan Dart sebagai bahasa pemrogramannya, proses pembelajaran ini melibatkan beberapa aspek penting yang diuraikan di bawah ini.
 
-![Gambar Tampilan Roll Dice](first_app/assets/git/DiceRoll.png)
+![Gambar Tampilan Roll Dice](assets/git/DiceRoll.png)
 
 ## 1. Memahami Dart Basics
 
@@ -18,7 +18,7 @@ Dalam pembuatan aplikasi Roll Dice, saya menggunakan berbagai widget untuk layou
 
 ## Proses Pembuatan Aplikasi Roll Dice
 
-[Video Simulasi Hasil Roll Dice](first_app/assets/git/DiceRoll.mov)
+[Video Simulasi Hasil Roll Dice](assets/git/DiceRoll.mov)
 
 Dalam proses pembuatan aplikasi Roll Dice, saya mengimplementasikan semua yang telah dipelajari. Aplikasi dimulai dengan layar sederhana yang menampilkan gambar dadu. Saat pengguna mengetuk layar, aplikasi akan secara acak memilih angka antara 1 sampai 6 dan mengganti gambar dadu sesuai dengan angka yang muncul. Untuk ini, saya menggunakan `StatefulWidget` untuk memperbarui tampilan berdasarkan angka dadu yang baru.
 
